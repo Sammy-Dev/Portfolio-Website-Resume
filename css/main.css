@@ -56,7 +56,7 @@ body {
   margin: 0;
   height: 100%; }
   body#bg-image {
-    background: url(/PortfolioWebsite/dist/images/background.png);
+    background: url("/Portfolio-Website-Resume/images/background.png");
     background-attachment: fixed;
     background-size: cover;
     z-index: -1; }
